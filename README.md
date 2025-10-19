@@ -1,8 +1,16 @@
 # Maternal Health Analysis — Power BI Dashboard
  Includes interactive Power BI reports on maternal fat distribution, nutrition trends, and gestational health insights using data from PostgreSQL and Excel.
 
-## Sepsis Dashboard
-Access the Power BI Dashboard here: https://app.powerbi.com/links/zm-xi-OEh7?ctid=a3804733-48fc-47a2-a982-d3d449ef899f&pbi_source=linkShare
+## Download the Dashboard
+Access the complete Power BI Dashboard here: https://app.powerbi.com/links/zm-xi-OEh7?ctid=a3804733-48fc-47a2-a982-d3d449ef899f&pbi_source=linkShare
+
+### Dashboard Screenshots
+ ![Patient History](<Patient History.PNG>)
+
+ ![Maternal Fat Analysis](<Maternal Fat Analysis.PNG>)
+
+ ![Newborn Impacts](<Newborn Impacts.PNG>)
+
 
 ## Objective
 
